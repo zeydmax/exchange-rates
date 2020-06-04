@@ -25,7 +25,7 @@ function App() {
     handleGet();
   }, []);
 
-  useInterval(handleGet, 18000000);
+  useInterval(handleGet, 300000);
 
   return (
     <div className="App">
