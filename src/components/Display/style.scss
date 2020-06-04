@@ -1,0 +1,14 @@
+.Display {
+  margin: 64px auto;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+
+  li {
+    margin-right: 24px;
+    font-size: 24px;
+  }
+}
